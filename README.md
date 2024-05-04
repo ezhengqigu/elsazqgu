@@ -1,8 +1,3 @@
-# elsazqgu
-Hello! I'm , a junior majoring in Statistics and minoring Portuguese at Boston University
-Born and raised in Shanghai, China, I'm a trilingual speaker who is passionate about language and culture (Chinese, English, Portuguese)
-I aspire to work in Biostatistics or Computational Linguistics in the future
-
 # Hello, I'm Elsa (Zhengqi) Gu 👋
 
 Welcome to my GitHub profile!
@@ -16,9 +11,9 @@ I am Elsa, currently a junior majoring in Statistics at Boston University. With 
 - 💻 **Computer Science**: Developing software and algorithms to tackle practical challenges.
 
 ## Languages
-- [Language 1]
-- [Language 2]
-- [Language 3]
+- Chinese
+- English
+- Portuguese
 
 ## Aspirations
 I am passionate about the intersection of technology and data, and I aspire to innovate in the field of [Your Career Interest, e.g., Machine Learning or Artificial Intelligence].
